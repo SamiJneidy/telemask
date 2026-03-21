@@ -208,6 +208,7 @@ All of these run persistent processes, which is required for long polling or web
 ├── config.py                  # Env var loading (BOT_TOKEN, DATABASE_URL, webhook settings)
 ├── .env.example               # Template for .env
 ├── requirements.txt
+├── LICENSE                  # MIT
 │
 ├── domain/
 │   ├── entities/              # User, ChatSession
@@ -242,4 +243,4 @@ All of these run persistent processes, which is required for long polling or web
 
 ## License
 
-Specify your license here (e.g. MIT) or add a `LICENSE` file.
+This project is licensed under the [MIT License](LICENSE).
